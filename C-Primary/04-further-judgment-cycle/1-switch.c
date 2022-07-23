@@ -1,9 +1,7 @@
 #include <stdio.h>
-int main()
-{
+int main() {
   int type = 0;
-  switch (type)
-  {
+  switch (type) {
   case 0:
     printf("Good Morning!");
     break;
